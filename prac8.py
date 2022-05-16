@@ -1,0 +1,27 @@
+# set1={1,2,3,3,4,5}
+# print(set1)
+# set1.add(20)
+# print(set1)
+# print("the popped element is",set1.pop())
+# print(set1)
+# set1.remove(4)
+# print(set1)
+# set1.discard(2)
+# print(set1)
+# set1.clear()
+# print(set1)
+zip
+s1={1,2,3,4,5,10,30,40}
+s2={10,20,30,40,50}
+# s3=s1.union(s2)
+# print("Result after Union operation",s3)
+# s4=s1.intersection(s2)
+# print("Result after intersection operation",s4)
+# s5=s1.difference(s2)
+# print("Result after difference operation",s5)
+# s6=s1.symmetric_difference(s2)
+# print("Result after Symmetric difference operation",s6)
+print("Minimum value of Set is ",min(s1))
+print("Maximun value of Set is ",max(s1))
+# print("Length of set is",s1.lez)
+print("Length of Set is ",len(s1))
